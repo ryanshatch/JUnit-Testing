@@ -29,7 +29,7 @@ public class Appointment {
             throw new IllegalArgumentException("Appointment date must not be in the past");
         if (description == null || description.length() > 50)
             throw new IllegalArgumentException("Description too long");
-        
+
         this.appointmentId = appointmentId;
         this.appointmentDate = appointmentDate;
         this.description = description;

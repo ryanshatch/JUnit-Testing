@@ -34,6 +34,10 @@ public class AppointmentService {
     }
 
     public Appointment getAppointment(String appointmentId) {
-        return appointments.get(appointmentId);
+        Appointment appointment = appointments.get(appointmentId);
+        if (appointment == null) {
+            throw new IllegalArgumentException("Appointment does not exist");
+        }
+        return appointment;
     }
 }
