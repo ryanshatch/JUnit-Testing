@@ -57,6 +57,6 @@ ZApLAwEIB4h+BBgWCgAmFiEEVmjoKvM46AVd3FxFpgkSpTh3G+gFAmZgb/8CGwwF
 CRL2ToEACgkQpgkSpTh3G+hAKwD/djG0ybfufezgMLVDID0cULhLqfSCxX0vNzG/
 6sYeS2gA/0FBWfNmkj2ZjhMmJIf55Xvc30737XUiauiB901nrVQD
 =KnH6
-</code>
+</code><br>
 <code>-----BEGIN PGP PUBLIC KEY BLOCK-----</code>
 <hr>
