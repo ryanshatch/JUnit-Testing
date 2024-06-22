@@ -45,7 +45,9 @@ The Contact Service is used for storing and managing contact information. The cl
 - Comprehensive unit tests for reliability.
 
 <hr>
-```-----BEGIN PGP PUBLIC KEY BLOCK-----
+<code>
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZmBv/xYJKwYBBAHaRw8BAQdAxX25ugehwVFXO0RXXAjhqY/XT4t7h4MiexI5
 qf9HOkO0G3J5YW5zaGF0Y2ggPDQwNEBTSEEtMjU2LmlvPoiZBBMWCgBBFiEEVmjo
@@ -57,5 +59,7 @@ ZApLAwEIB4h+BBgWCgAmFiEEVmjoKvM46AVd3FxFpgkSpTh3G+gFAmZgb/8CGwwF
 CRL2ToEACgkQpgkSpTh3G+hAKwD/djG0ybfufezgMLVDID0cULhLqfSCxX0vNzG/
 6sYeS2gA/0FBWfNmkj2ZjhMmJIf55Xvc30737XUiauiB901nrVQD
 =KnH6
------END PGP PUBLIC KEY BLOCK-----```
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</ code>
 <hr>
