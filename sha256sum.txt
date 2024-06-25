@@ -1,0 +1,6 @@
+74de8c484fab8310939fe6193d2da54a830d452f158e3d723fa787d61f211df1  C:/Users/rshat/Documents/Coding/JUnit-Testing/JUnit-Testing.zip.gpg.sig
+b968555a417f35a922af26e4ba8fe67e7e9c9204314919b413b24ce75e102fcc  C:/Users/rshat/Documents/Coding/JUnit-Testing/Summary and Reflections Report.docx.gpg
+ea22f503f65a58f474ecd3f3d7c541f3d7b13d4216ea9b1ed95c9b6b626500c3  C:/Users/rshat/Documents/Coding/JUnit-Testing/Summary and Reflections Report.docx.gpg.sig
+f776481e8859e0f27253aa63f5ed4d4cb10134b8e3e1f50a746a1cbfe2156429  C:/Users/rshat/Documents/Coding/JUnit-Testing/Journal - Software Testing Techniques.docx.gpg
+56defe09870a41330af03c6c0daafb26679392155185c9ae5eb4baca0c01f612  C:/Users/rshat/Documents/Coding/JUnit-Testing/Journal - Software Testing Techniques.docx.gpg.sig
+021398b390c657d619da4bd668063ba59c3cfab3379e922247dd36d766a3a5a9  C:/Users/rshat/Documents/Coding/JUnit-Testing/JUnit-Testing.zip.gpg
