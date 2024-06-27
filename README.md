@@ -1,5 +1,5 @@
 <!-- ****************************************************************************************
- * Title: ContactTest Readme        |********************************************************
+ * Title: JUnit Test Readme         |********************************************************
  * Developed by: Ryan Hatch         |********************************************************
  * Date: June 2nd 2024              |********************************************************
  * Last Updated: June 11th 2024     |********************************************************
@@ -45,6 +45,25 @@ The Contact Service is used for storing and managing contact information. The cl
 - Comprehensive unit tests for reliability.
 
 <hr>
+
+```plaintext
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZmBv/xYJKwYBBAHaRw8BAQdAxX25ugehwVFXO0RXXAjhqY/XT4t7h4MiexI5
+qf9HOkO0G3J5YW5zaGF0Y2ggPDQwNEBTSEEtMjU2LmlvPoiZBBMWCgBBFiEEVmjo
+KvM46AVd3FxFpgkSpTh3G+gFAmZgb/8CGwMFCRL2ToEFCwkIBwICIgIGFQoJCAsC
+BBYCAwECHgcCF4AACgkQpgkSpTh3G+jmBgEAtBJJWSwEEPxtnIYELDBcnNZn5dgi
+qRqjGKiG5fczRVMA/03OgXikM2BHle1sGXneIfVBmj9A/wKmW2NvzR8POOYNuDgE
+ZmBv/xIKKwYBBAGXVQEFAQEHQPT/dy5ulGhJR76YA1eozuvL1lxrHdV8dqohwjbx
+ZApLAwEIB4h+BBgWCgAmFiEEVmjoKvM46AVd3FxFpgkSpTh3G+gFAmZgb/8CGwwF
+CRL2ToEACgkQpgkSpTh3G+hAKwD/djG0ybfufezgMLVDID0cULhLqfSCxX0vNzG/
+6sYeS2gA/0FBWfNmkj2ZjhMmJIf55Xvc30737XUiauiB901nrVQD+=KnH6
+
+-----END PGP PUBLIC KEY BLOCK-----
+```
+<hr>
+<!--
+<hr>
 <code>-----BEGIN PGP PUBLIC KEY BLOCK-----</code><br>
 <code>
 mDMEZmBv/xYJKwYBBAHaRw8BAQdAxX25ugehwVFXO0RXXAjhqY/XT4t7h4MiexI5
@@ -59,3 +78,4 @@ CRL2ToEACgkQpgkSpTh3G+hAKwD/djG0ybfufezgMLVDID0cULhLqfSCxX0vNzG/
 </code><br><br>
 <code>-----BEGIN PGP PUBLIC KEY BLOCK-----</code>
 <hr>
+-->
